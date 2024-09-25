@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/bbce59033806ab670978095d5afd1fed/raylib-populate.rule
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/4f33f6d0d7f945419b25cddaea4851dd/raylib-populate-complete.rule
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/ed025b2bbbd754cc7f8ad368bb2d4eb0/raylib-populate-build.rule
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/ed025b2bbbd754cc7f8ad368bb2d4eb0/raylib-populate-configure.rule
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/ed025b2bbbd754cc7f8ad368bb2d4eb0/raylib-populate-download.rule
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/ed025b2bbbd754cc7f8ad368bb2d4eb0/raylib-populate-install.rule
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/ed025b2bbbd754cc7f8ad368bb2d4eb0/raylib-populate-mkdir.rule
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/ed025b2bbbd754cc7f8ad368bb2d4eb0/raylib-populate-patch.rule
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/ed025b2bbbd754cc7f8ad368bb2d4eb0/raylib-populate-test.rule
+C:/-IC-main/build/_deps/raylib-subbuild/CMakeFiles/ed025b2bbbd754cc7f8ad368bb2d4eb0/raylib-populate-update.rule

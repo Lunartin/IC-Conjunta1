@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/-IC-main/build/_deps/raylib-src/cmake/CompileDefinitions.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/GlfwImport.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/InstallConfigurations.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/JoinPaths.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/LibraryConfigurations.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/LibraryPathToLinkerFlags.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/PackConfigurations.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/PopulateConfigVariablesLocally.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/raylib-config-version.cmake
+C:/-IC-main/build/_deps/raylib-src/raylib.pc.in
+C:/-IC-main/build/_deps/raylib-src/src/CMakeLists.txt
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/CPack.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/CPackComponent.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/FindOpenGL.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/GNUInstallDirs.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Templates/CPackConfig.cmake.in

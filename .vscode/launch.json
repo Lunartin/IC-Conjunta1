@@ -5,10 +5,10 @@
       "name": "Debug",
       "type": "cppdbg",
       "request": "launch",
-      "program": "C:/-IC-main/-IC-main.exe",
+      "program": "${workspaceFolder}/${fileBasenameNoExtension}.exe", // Certifique-se de incluir a extensão .exe
       "args": [],
       "stopAtEntry": false,
-      "cwd": "C:/-IC-main",
+      "cwd": "${workspaceFolder}",
       "environment": [],
       "externalConsole": false,
       "MIMode": "gdb",
@@ -36,10 +36,10 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "cwd": "C:/-IC-main",
+      "cwd": "${workspaceFolder}",
       "environment": [],
       "externalConsole": false,
-      "program": "C:/-IC-main/-IC-main.exe",
+      "program": "${workspaceFolder}/${fileBasenameNoExtension}.exe",
       "MIMode": "gdb",
       "windows": {
         "miDebuggerPath": "C:/raylib/w64devkit/bin/gdb.exe"

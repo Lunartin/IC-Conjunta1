@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/-IC-main/build/_deps/raylib-src/CMakeLists.txt
+C:/-IC-main/build/_deps/raylib-src/CMakeOptions.txt
+C:/-IC-main/build/_deps/raylib-src/cmake/AddIfFlagCompiles.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/BuildOptions.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/CompilerFlags.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/EnumOption.cmake
+C:/-IC-main/build/_deps/raylib-src/cmake/Uninstall.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/CMakeDependentOption.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/CheckCCompilerFlag.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Users/gabri/scoop/apps/cmake/3.30.2/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake
